@@ -1,4 +1,4 @@
-package com.datbear;
+package net.unethicalite.plugins.gotr;
 
 public enum CellType {
     Weak,

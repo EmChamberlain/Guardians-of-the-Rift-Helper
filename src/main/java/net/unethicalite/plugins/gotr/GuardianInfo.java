@@ -1,4 +1,4 @@
-package com.datbear;
+package net.unethicalite.plugins.gotr;
 
 import com.google.common.collect.ImmutableSet;
 import net.runelite.api.ItemID;

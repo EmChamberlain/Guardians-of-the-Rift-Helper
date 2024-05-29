@@ -1,4 +1,4 @@
-package com.datbear;
+package net.unethicalite.plugins.gotr;
 
 import net.runelite.api.Client;
 import net.runelite.client.ui.overlay.Overlay;

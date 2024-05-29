@@ -1,4 +1,4 @@
-package com.datbear;
+package net.unethicalite.plugins.gotr;
 
 import net.runelite.api.*;
 import net.runelite.api.Point;
